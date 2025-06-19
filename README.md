@@ -35,7 +35,7 @@ scikit-learn
 matplotlib, seaborn
 NumPy, Pandas
 
-📊 Resultados
+📊 Resultados:
 Ambos modelos lograron buenos desempeños en la clasificación de coberturas del suelo.
 El modelo de Random Forest mostró una mejor capacidad de generalización en comparación con KNN al aplicarse sobre un recorte no visto.
 Se visualizó y analizó la distribución espacial de las clases predichas en los mapas generados.
